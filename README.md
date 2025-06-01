@@ -49,7 +49,7 @@ AutoDocx/
 └── README.md
 ```
 
-##License
+## License
 [MIT license](https://github.com/qannje/auto-docx/blob/master/LICENSE)
 
 Made with ❤️.
