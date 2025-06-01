@@ -30,7 +30,7 @@ python-docx
 
 **Install dependencies with:**
 ```sh
-pip install -r [requirements.txt]
+pip install -r requirements.txt
 ```
 
 ### Project Structure
